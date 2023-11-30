@@ -1,4 +1,4 @@
-### Olá! eu sou o Diêgo 😁
+### Olá! Me chamo Diêgo 😁
 [![Instagram](https://img.shields.io/badge/@diegosmp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegosmp)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosmp/)
 
