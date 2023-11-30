@@ -27,6 +27,8 @@
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosmp&layout=compact)
+
 #### Apaixonado por aprender e ensinar a tecnologia que tanto amo.
 
 ##### São os desafior do dia a dia que me motivam.
