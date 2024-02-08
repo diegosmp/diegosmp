@@ -1,10 +1,10 @@
-### Olá! Me chamo Diêgo 😁
+### Hello! My name is Diêgo 😁
 [![Instagram](https://img.shields.io/badge/@diegosmp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegosmp)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosmp/)
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosmp&show_icons=true&theme=dracula)
 
-## Tecnologia do meu dia-a-dia
+## Everyday Technology
 
 
 <div style="display: inline_block"><br/>
@@ -18,7 +18,7 @@
     
 </div>
 
-## Tecnologias que estou estudando
+## Tech in studying
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,6 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosmp&layout=compact)
 
-#### Apaixonado por aprender e ensinar a tecnologia que tanto amo.
-
-##### São os desafior do dia a dia que me motivam.
+#### Loveling for studying and  instruct tech that i'm love.
